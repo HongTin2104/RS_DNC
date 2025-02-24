@@ -14,16 +14,16 @@ This project compares the performance of five recommendation algorithms across t
 
 ## Datasets
 
-1. **Statics2011:** [https://pslcdatashop.web.cmu.edu/DatasetInfo?datasetId=507](https://github.com/pykt-team/pykt-toolkit/blob/main/examples/datatpl_statics2011.yaml)
+1. **Statics2011:** [https://pslcdatashop.web.cmu.edu/DatasetInfo?datasetId=507](https://pslcdatashop.web.cmu.edu/DatasetInfo?datasetId=507)
 2. **ASSISTments2009:** [https://sites.google.com/site/assistmentsdata/home/2009-2010-assistment-data/skill-builder-data-2009-2010](https://sites.google.com/site/assistmentsdata/home/2009-2010-assistment-data/skill-builder-data-2009-2010)
-3. **ASSISTments2012:** [https://www.kaggle.com/datasets/nicolaswattiez/skillbuilder-data-2009-2010](https://sites.google.com/site/assistmentsdata/home/assistments-2012-13-data)
-4. **ASSISTments2015:** [https://sites.google.com/site/assistmentsdata/](https://sites.google.com/site/assistmentsdata/home/2015-assistments-data)
-5. **ASSISTments2017:** [https://github.com/bigdata-ustc/EduData/blob/master/docs/analysis/ASSISTments/ASSISTments2017.ipynb](https://sites.google.com/site/assistmentsdata/home/2017-assistments-data)
-6. **Algebra2005:** [https://arxiv.org/pdf/2206.11460](http://pslcdatashop.web.cmu.edu/DatasetInfo?datasetId=363)
-7. **Bridge2006:** [https://rail-berkeley.github.io/bridgedata/](http://pslcdatashop.web.cmu.edu/DatasetInfo?datasetId=765)
+3. **ASSISTments2012:** [https://sites.google.com/site/assistmentsdata/datasets/2012-13-school-data-with-affect](https://sites.google.com/site/assistmentsdata/datasets/2012-13-school-data-with-affect)
+4. **ASSISTments2015:** [https://sites.google.com/site/assistmentsdata/datasets/2015-assistments-skill-builder-data](https://sites.google.com/site/assistmentsdata/datasets/2015-assistments-skill-builder-data)
+5. **ASSISTments2017:** [https://sites.google.com/view/assistmentsdatamining/dataset?authuser=0](https://sites.google.com/view/assistmentsdatamining/dataset?authuser=0)
+6. **Algebra2005:** [https://pslcdatashop.web.cmu.edu/KDDCup/](https://pslcdatashop.web.cmu.edu/KDDCup/)
+7. **Bridge2006:** [https://pslcdatashop.web.cmu.edu/KDDCup/](https://pslcdatashop.web.cmu.edu/KDDCup/)
 8. **Ednet:** [https://github.com/riiid/ednet](https://github.com/riiid/ednet)
-9. **NIPS34:** [https://openreview.net/group?id=NeurIPS.cc/2024/Datasets_and_Benchmarks_Track](https://www.kaggle.com/datasets/benhamner/nips-papers)
-10. **POJ:** [https://github.com/microsoft/CodeXGLUE/blob/main/Code-Code/Clone-detection-POJ-104/README.md](https://github.com/fzyukio/poj_datasets)
+9. **NIPS34:** [https://eedi.com/projects/neurips-education-challenge](https://eedi.com/projects/neurips-education-challenge)
+10. **POJ:** [https://drive.google.com/drive/folders/1LRljqWfODwTYRMPw6wEJ_mMt1KZ4xBDk](https://drive.google.com/drive/folders/1LRljqWfODwTYRMPw6wEJ_mMt1KZ4xBDk)
 
 ## How to Run the Code
 
